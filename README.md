@@ -1,2 +1,0 @@
-# Inventory
-Created with CodeSandbox
